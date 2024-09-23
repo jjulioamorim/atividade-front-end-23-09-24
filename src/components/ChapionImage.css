@@ -1,0 +1,9 @@
+.champion-image {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.champion-image img {
+  border: 2px solid #ddd;
+  border-radius: 8px;
+}
